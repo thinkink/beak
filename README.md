@@ -3,7 +3,7 @@
 
 ##ultrafast & lightweight frontend
 
-![Alt text](http://raw.githubusercontent.com/thinkink/beak/master/beak.svg)
+![Alt text](https://rawgit.com/thinkink/beak/master/beak.svg)
  
 
 ### Copyright and license
