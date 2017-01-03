@@ -1,10 +1,8 @@
-# beak
-
-
-##ultrafast & lightweight frontend
-
 ![Alt text](https://rawgit.com/thinkink/beak/master/beak.svg)
  
+
+##beak ultrafast & lightweight frontend
+
 
 ### Copyright and license
 
